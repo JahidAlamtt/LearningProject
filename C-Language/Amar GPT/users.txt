@@ -1,0 +1,11 @@
+1|17423|jalamkp@gmail.com|kkbau|Jahid Alam|22|22|islam|khulna|students|bsc in cse|5.80|15000|read|unmareed|Male|22|jashore|at least hsc|housewife
+1|28391|rahim23@gmail.com|rahim123|Rahim Ahmed|25|25|islam|jashore|student|bba|5.70|18000|football|unmareed|Male|23|khulna|at least hsc|student
+1|39482|sumaiya99@gmail.com|sumi456|Sumaiya Akter|23|23|islam|khulna|teacher|ba in english|5.30|22000|reading|unmareed|Female|26|jashore|bsc|job holder
+1|58721|karim.alam@gmail.com|karim789|Karim Alam|28|28|islam|dhaka|engineer|bsc in eee|5.90|45000|travel|unmareed|Male|24|khulna|bsc|teacher
+0|62984|nusrat22@gmail.com|nusrat321|Nusrat Jahan|24|24|islam|jashore|student|bsc in cse|5.40|12000|cooking|unmareed|Female|27|khulna|bsc|engineer
+1|73829|hasan55@gmail.com|hasan555|Hasan Mahmud|30|30|islam|khulna|businessman|hsc|5.60|35000|cricket|unmareed|Male|25|jashore|hsc|housewife
+1|84920|maria88@gmail.com|maria2024|Maria Islam|26|26|islam|dhaka|nurse|diploma in nursing|5.20|30000|gardening|unmareed|Female|29|khulna|bsc|job holder
+0|95831|sabbir10@gmail.com|sabbi111|Sabbir Hossain|27|27|islam|jashore|designer|diploma|5.75|28000|drawing|unmareed|Male|23|khulna|at least hsc|student
+1|16273|tanjina@gmail.com|tanji222|Tanjina Rahman|22|22|islam|khulna|student|hsc|5.10|10000|singing|unmareed|Female|26|jashore|bsc|businessman
+1|27384|arif.bd@gmail.com|arif333|Arif Hasan|29|29|islam|rajshahi|banker|mba|5.80|50000|reading|unmareed|Male|24|khulna|bba|teacher
+1|38495|farzana21@gmail.com|farza444|Farzana Akter|25|25|islam|jashore|teacher|b.ed|5.35|25000|travel|unmareed|Female|30|khulna|bsc|engineer

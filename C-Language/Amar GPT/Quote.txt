@@ -1,0 +1,61 @@
+AGE|0|17|Bro, focus on school first. Love can wait outside the classroom.
+AGE|0|17|Under 18 detected. Matrimony mode changed to homework mode.
+AGE|18|24|Young heart, big dreams, and maybe one confused crush.
+AGE|18|24|Perfect age for dreams, degrees, and dramatic love songs.
+AGE|25|35|Serious marriage age unlocked. Family group chat is watching.
+AGE|25|35|Your relatives have probably started asking suspicious questions.
+AGE|36|60|Mature heart detected. Premium understanding mode activated.
+AGE|61|120|Legendary love level unlocked. Respect!
+EMAIL|0|0|Enter email carefully. Future love letters may depend on it.
+EMAIL|0|0|Use a real email. Pigeon delivery is not supported yet.
+PASSWORD|0|0|Make a password strong enough to protect your secret crush list.
+PASSWORD|0|0|Password please. Do not use your crush name, too risky.
+NAME|0|0|Enter your name. This is the name destiny will print on the wedding card.
+NAME|0|0|Your name please. Nicknames like King of Hearts are optional.
+GENDER|0|0|Enter gender. The algorithm is wearing glasses and trying to understand.
+GENDER|0|0|Gender please. Cupid needs correct direction.
+RELIGION|0|0|Religion helps matching family expectations and dinner table peace.
+DISTRICT|0|0|District please. Distance matters when biryani delivery is involved.
+DISTRICT|0|0|Enter district. Local matches may reduce transport cost.
+PROFESSION|0|0|Profession please. Future in-laws are taking notes.
+PROFESSION|0|0|What do you do? Besides overthinking life, of course.
+EDUCATION|0|0|Education please. Degree is not love, but aunties respect it.
+EDUCATION|0|0|Enter education. The biodata committee is ready.
+HEIGHT|0|50|Height seems tiny. Are you entering centimeters by mistake?
+HEIGHT|51|58|Cute height detected. Confidence adds extra inches.
+HEIGHT|59|66|Nice height. Suitable for both selfies and serious meetings.
+HEIGHT|67|84|Tall personality detected. Ceiling fan should be careful.
+SALARY|0|9999|Salary low, but dreams can still be billionaire level.
+SALARY|10000|29999|Budget-friendly romantic hero detected.
+SALARY|30000|79999|Stable income. Parents may start smiling.
+SALARY|80000|99999999|Financial confidence detected. Wedding decorator is now interested.
+HOBBY|0|0|Hobby please. Sleeping is valid but not very romantic.
+HOBBY|0|0|Enter hobby. This helps us find your partner in crime.
+MARITAL|0|0|Marital status please. Honesty is the best wedding decoration.
+PREFAGE|0|0|Preferred age range. Keep it realistic, this is not a time machine.
+PREFDISTRICT|0|0|Preferred district. Love may be blind, but bus fare is real.
+PREFEDUCATION|0|0|Preferred education. Cupid is opening the academic filter.
+PREFPROFESSION|0|0|Preferred profession. Dream partner loading...
+REGISTER_DONE|0|0|Registration complete. Your biodata has entered the love database.
+REGISTER_DONE|0|0|Profile saved. Somewhere, destiny just refreshed the page.
+LOGIN_SUCCESS|0|0|Login successful. Welcome back, romantic researcher.
+LOGIN_SUCCESS|0|0|Access granted. Your heart dashboard is ready.
+LOGIN_FAIL|0|0|Wrong email or password. Even Cupid could not verify this.
+LOGIN_FAIL|0|0|Login failed. Maybe the password is hiding from commitment.
+MATCH_HIGH|0|0|High match! Family group chat may explode soon.
+MATCH_HIGH|0|0|Excellent match. Start practicing respectful introduction lines.
+MATCH_MID|0|0|Decent match. Needs conversation, tea, and maybe snacks.
+MATCH_MID|0|0|Medium match. Potential exists, drama level unknown.
+MATCH_LOW|0|0|Low match. Better as neighbors in a database.
+MATCH_LOW|0|0|Compatibility is shy today. Try another profile.
+LOVE_LOW|0|0|Love score low. Friendship subscription recommended.
+LOVE_LOW|0|0|The calculator says: focus on assignments first.
+LOVE_MID|0|0|Love score medium. There is hope, but recharge required.
+LOVE_MID|0|0|Not bad! A good conversation can increase this score.
+LOVE_HIGH|0|0|Love score high! Wedding playlist is warming up.
+LOVE_HIGH|0|0|Strong chemistry detected. Calculator is blushing.
+COST_LOW|0|0|Budget wedding detected. Simple, sweet, and financially peaceful.
+COST_MID|0|0|Medium wedding cost. Relatives will eat happily.
+COST_HIGH|0|0|High wedding cost. Wallet needs emotional support.
+ADMIN|0|0|Admin mode: where romance meets database control.
+ADMIN|0|0|Welcome admin. Please manage love responsibly.
